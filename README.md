@@ -7,7 +7,7 @@ It provides declarative and reactive bindings to the [Konva Framework](https://k
 
 # picture Demo
 
-![Demo](./img.png)
+
 
 **How to Complex Drag and Drop Bounds React-Konva ?**
 
